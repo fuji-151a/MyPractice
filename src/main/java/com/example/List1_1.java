@@ -24,6 +24,7 @@ public class List1_1 {
 		if(s1.isEmpty()) {
 			System.out.println("s1は空文字列です");
 		}
+		
 	}
 
 }
